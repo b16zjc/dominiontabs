@@ -1652,7 +1652,7 @@
     "Falconer": {
         "description": "Gain a card to your hand costing less than this.<line>When any player gains a card with 2 or more types (Action, Attack, etc.), you may play this from your hand.",
         "extra": "This can only gain cards from the Supply.<n>You can react with this to any gained card with 2 or more types; it can be a card that was bought, or a card gained some other way, such as via a Falconer.<n>You can do this regardless of who gained the card - you or anyone else - and regardless of whose turn it is.<n>The types are the words on the bottom line – including Action, Attack, Curse, Duration, Reaction, Treasure, and Victory (with more in other expansions).<n>If you gain a Falconer to your hand - such as via Artisan - you can react to that gain and play it, since it has two types.",
-        "name": "Falconer"
+        "name": "Falknerin"
     },
     "Fisherman": {
         "description": "+1 Card<br>+1 Action<br>+1 Coin<line>During your turns, if your discard pile is empty, this costs 3 Coin less.",
